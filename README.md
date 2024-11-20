@@ -1,27 +1,29 @@
-# NgCustomPipeLibrary
+# ng-custom-pipe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
+You can install it from here [NPM Package](https://www.npmjs.com/package/@choudharymahipal/ng-custom-pipe)
 
-## Development server
+## Overview
+ng-custom-pipe is an npm library that provides a collection of reusable custom pipes for Angular applications, enabling developers to easily transform data in templates. It simplifies common formatting tasks—like string capitalization, date formatting, and number formatting etc.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Demo 
+I will add here stackblitz link for `ng-custom-pipe` example.
 
-## Code scaffolding
+## Features
+- Custom useful Angular pipes
+- It will cover String, Array, Aggregation, Collections, Number and other Conversion etc.
+- Easy to use with examples
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
+Install the library via npm:
+```
+npm i @choudharymahipal/ng-custom-pipe
+```
 
-## Build
+if any dependancy error then try this
+```
+npm i @choudharymahipal/ng-custom-pipe --legacy-peer-deps
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Contributing
+> [!NOTE]
+> We welcome contributions to the `ng-custom-pipe` Library! If you'd like to help out, please visit our GitHub repository: [ng-custom-pipe-library](https://github.com/choudharymahipal/ng-custom-pipe-library).
